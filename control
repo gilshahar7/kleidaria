@@ -1,0 +1,9 @@
+Package: com.gilshahar7.kleidaria
+Name: Kleidaria
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Locks the device when placed face down.
+Maintainer: gilshahar7 <gilshahardex99@gmail.com>
+Author: gilshahar7 <gilshahardex99@gmail.com>
+Section: Tweaks
